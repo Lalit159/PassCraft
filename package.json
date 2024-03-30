@@ -1,0 +1,21 @@
+{
+  "name": "passcraft",
+  "version": "1.0.0",
+  "description": "Generate a random-password with some customisations",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lalit159/PassCraft.git"
+  },
+  "author": "Lalit Gidwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lalit159/PassCraft/issues"
+  },
+  "homepage": "https://github.com/Lalit159/PassCraft#readme"
+}
